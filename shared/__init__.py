@@ -1,0 +1,1 @@
+# Shared library for both client and services 

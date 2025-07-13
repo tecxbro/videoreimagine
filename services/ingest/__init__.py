@@ -1,0 +1,1 @@
+# Ingest service for uploads, TransNet, PySceneDetect (GPU/CPU) 
